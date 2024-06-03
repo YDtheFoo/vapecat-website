@@ -1,5 +1,5 @@
-const vapeCatEnter = "./VapeCatEnter.mp4";
-const vapeCatLoop = "./VapeCatLoop.mp4";
+const vapeCatEnter = "./VapeCaTEnter.mp4";
+const vapeCatLoop = "./VapeCaTLoop.mp4";
 
 window.onload = () => playVapeCat();
 
